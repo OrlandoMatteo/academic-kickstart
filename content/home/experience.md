@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Bachelor degree"
+  company = "Politecnico di Torino"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Torino"
+  date_start = "2012-10-10"
+  date_end = "2015-10-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Bachelor degree in Physisc Engineering
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Master degree"
+  company = "Politecnico di Torino"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Torino"
+  date_start = "2015-10-10"
+  date_end = "2018-10-10"
+  description = """
+  Master degree in ICT for Smart Societies with the thesis :
+  'Desing and development of a novel smart-meter for improved Smart Grid management'
+  """
 
+[[experience]]
+  title = "Assistent researcher"
+  company = "Politecnico di Torino"
+  company_url = "https://eda.polito.it/"
+  location = "Torino"
+  date_start = "2018-10-10"
+  date_end = "2019-10-10"
+  description = """
+  Assistant researcher for EDA group 
+  """
+
+[[experience]]
+  title = "PhD candidate"
+  company = "Politecnico di Torino"
+  company_url = ""
+  location = "Torino"
+  date_start = "2019-10-10"
+  date_end = ""
+  description = """
+  PhD candidate
+  """
 +++
