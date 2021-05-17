@@ -1,10 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Novel Internet-of-Things Infrastructure to Support Self-Healing Distribution Systems"
-authors: [Estebsari, Abouzar; Orlando, Matteo; Pons, Enrico; Acquaviva, Andrea; Patti, Edoardo]
-date: 2018-9-10T16:06:31+02:00
-doi: "10.1109/SEST.2018.8495717"
+title: "Optimal Configuration and Placement of PV Systems in Building Roofs with Cost Analysis"
+authors: [Matteo Orlando, Lorenzo Bottaccioli, Edoardo Patti, Enrico Macii, Sara Vinco, Massimo Poncino]
+
+date: 2020-7-13T16:06:31+02:00
+doi: "10.1109/COMPSAC48688.2020.00-58"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2018-9-10T16:06:31+02:00
@@ -19,10 +20,10 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Following the Smart Grid view, current energy generation systems based on fossil fuels will be replaced with renewable energy sources. Photovoltaic (PV) is currently considered the most promising technology, due to decreasing costs of the devices and to the limited invasiveness in existing infrastructures, that make PV installations quite common urban buildings' roofs. To maximise both power production and Return Of Investment (ROI) of PV installations, new techniques and methodologies should be applied to limit sources of inefficiencies, like shading and power losses due to an incorrect installation. In this paper, we propose a novel solution for an optimal configuration and placement of PV systems in buildings' roofs. Given a number of alternative configurations and a roof of interest, it combines detailed geographic and irradiance information to determine the optimal PV installation, by maximizing both power production and ROI. Our simulation results on two real-world roofs demonstrate an improvement on power generation up to 23% w.r.t. standard compact installations. These results also highlight that a cost analysis, often ignored by standard installation strategies, is nonetheless necessary to guarantee optimal results in terms of PV production and revenue."
 
 # Summary. An optional shortened abstract.
-summary: "In this paper, we present a novel distributed software infrastructure to foster new services in smart grids with particular emphasis on supporting self-healing distribution systems. This infrastructure exploits the rising Internet-of-Things paradigms to build and manage an interoperable peer-to-peer network of our prototype smart meters, also presented in this paper. The proposed three-phase smart meter, called 3-SMA, is a low cost and open-source Internet-connected device that provides features for self-configuration. In addition, it selectively run on-board-algorithms for smart grid management depending on its deployment on the distribution network. Finally, we present the experimental results of Hardware-In-the-Loop simulations we performed."
+summary: ""
 
 tags: []
 categories: []
